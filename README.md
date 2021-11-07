@@ -17,4 +17,5 @@
 - This should prompt you select a screenshot.
 - For best accuracy, try to select an area that only has Korean words -- no other icons, symbols, or pictures.
 - The detected Korean text will be sent to [Papago](https://papago.naver.com/) on [Safari](https://www.apple.com/safari/).
-- If there are any mistakes in text recognition, you can tweak it as needed as long as you have [Korean enabled for your Mac keyboard](https://support.apple.com/en-mt/guide/korean-input-method/welcome/mac).
+- If no text is detected, try to narrow down your screenshot selection.
+- If there are any mistakes in text recognition, you can also tweak it as needed as long as you have [Korean enabled for your Mac keyboard](https://support.apple.com/en-mt/guide/korean-input-method/welcome/mac).
